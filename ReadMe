@@ -1,3 +1,9 @@
 This is an sammple project Gradle project which is used to add two int and float numbers.
 
 
+
+
+Prerequisists
+
+JDK 8 
+Groovy 2.4
