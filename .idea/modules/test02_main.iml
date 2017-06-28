@@ -5,8 +5,8 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../src/Main">
       <sourceFolder url="file://$MODULE_DIR$/../../src/main/groovy" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../../src/main/java" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../../src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/Main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/Main/java" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/../../src/Main" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />

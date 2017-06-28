@@ -1,5 +1,4 @@
-import OogwayMaths.*;
-import java.lang.*;
+import oogway.Maths.*;
 
 public class Main {
 

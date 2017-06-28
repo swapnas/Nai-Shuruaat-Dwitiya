@@ -1,4 +1,4 @@
-import OogwayMaths.*;
+import oogway.Maths.*;
 import spock.lang.Specification
 
 class MyFirstSpec extends Specification {
@@ -46,5 +46,3 @@ class MyFirstSpec extends Specification {
 
     }
 }
-
-

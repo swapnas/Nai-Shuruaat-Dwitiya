@@ -1,8 +1,4 @@
-/**
- * Created by swapnaJi on 6/26/2017.
- */
-package OogwayMaths;
-
+package oogway.Maths;
 
 
 public class Add_package {
