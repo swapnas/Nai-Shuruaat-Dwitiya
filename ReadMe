@@ -1,4 +1,8 @@
-This is an sammple project Gradle project which is used to add two int and float numbers.
+                                                              Task 2
+
+The in.oogway.maths folder contains the package in.oogway.maths which has the methods to add two int ir float numbers.
+
+The Main folder contains the main java file where the in.oogway.maths is used a dependency in gradle.
 
 
 
