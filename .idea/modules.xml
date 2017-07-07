@@ -4,9 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/ND01_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ND01_main.iml" group="ND01" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/ND01_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ND01_test.iml" group="ND01" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/test02.iml" filepath="$PROJECT_DIR$/.idea/modules/test02.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/test02_main.iml" filepath="$PROJECT_DIR$/.idea/modules/test02_main.iml" group="test02" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/test02_test.iml" filepath="$PROJECT_DIR$/.idea/modules/test02_test.iml" group="test02" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Nai Shuruaat Dwitiya.iml" filepath="$PROJECT_DIR$/.idea/modules/Nai Shuruaat Dwitiya.iml" />
     </modules>
   </component>
 </project>
